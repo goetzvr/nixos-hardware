@@ -92,6 +92,7 @@
       lenovo-legion-16irx8h = import ./lenovo/legion/16irx8h;
       lenovo-legion-y530-15ich = import ./lenovo/legion/15ich;
       lenovo-thinkpad = import ./lenovo/thinkpad;
+      lenovo-thinkpad-25 = import ./lenovo/thinkpad/25;
       lenovo-thinkpad-e14-amd = import ./lenovo/thinkpad/e14/amd;
       lenovo-thinkpad-e14-intel = import ./lenovo/thinkpad/e14/intel;
       lenovo-thinkpad-e470 = import ./lenovo/thinkpad/e470;
