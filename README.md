@@ -88,6 +88,7 @@ See code for all available configurations.
 | [Asus ROG Zephyrus G14 GA402](asus/zephyrus/ga402)                  | `<nixos-hardware/asus/zephyrus/ga402>`             |
 | [Asus ROG Zephyrus G15 GA502](asus/zephyrus/ga502)                  | `<nixos-hardware/asus/zephyrus/ga502>`             |
 | [Asus ROG Zephyrus G15 GA503](asus/zephyrus/ga503)                  | `<nixos-hardware/asus/zephyrus/ga503>`             |
+| [Asus ROG Zephyrus M16 GU603H](asus/zephyrus/gu603h)                  | `<nixos-hardware/asus/zephyrus/gu603h>`             |
 | [Asus TUF FX504GD](asus/fx504gd)                                    | `<nixos-hardware/asus/fx504gd>`                    |
 | [BeagleBoard PocketBeagle](beagleboard/pocketbeagle)                | `<nixos-hardware/beagleboard/pocketbeagle>`        |
 | [Deciso DEC series](deciso/dec)                                     | `<nixos-hardware/deciso/dec>`                      |
@@ -130,9 +131,10 @@ See code for all available configurations.
 | [Dell XPS 17 9700, nvidia](dell/xps/17-9700/nvidia)                 | `<nixos-hardware/dell/xps/17-9700/nvidia>`         |
 | [Dell XPS 17 9710, intel only](dell/xps/17-9710/intel)              | `<nixos-hardware/dell/xps/17-9710/intel>`          |
 | [Dell XPS E7240](dell/e7240)                                        | `<nixos-hardware/dell/e7240>`                      |
-| [Framework 11th Gen Intel Core](framework)                          | `<nixos-hardware/framework>`                       |
-| [Framework 12th Gen Intel Core](framework/12th-gen-intel)           | `<nixos-hardware/framework/12th-gen-intel>`        |
-| [Framework 13th Gen Intel Core](framework/13th-gen-intel)           | `<nixos-hardware/framework/13th-gen-intel>`        |
+| [Framework 11th Gen Intel Core](framework/13-inch/11th-gen-intel)   | `<nixos-hardware/framework/13-inch/11th-gen-intel>`|
+| [Framework 12th Gen Intel Core](framework/13-inch/12th-gen-intel)   | `<nixos-hardware/framework/13-inch/12th-gen-intel>`|
+| [Framework 13th Gen Intel Core](framework/13-inch/13th-gen-intel)   | `<nixos-hardware/framework/13-inch/13th-gen-intel>`|
+| [Framework 13 AMD Ryzen 7040 Series](framework/13-inch/7040-amd)    | `<nixos-hardware/framework/13-inch/7040-amd>`      |
 | [FriendlyARM NanoPC-T4](friendlyarm/nanopc-t4)                      | `<nixos-hardware/friendlyarm/nanopc-t4>`           |
 | [FriendlyARM NanoPi R5s](friendlyarm/nanopi-r5s)                    | `<nixos-hardware/friendlyarm/nanopi-r5s>`          |
 | [Focus M2 Gen 1](focus/m2/gen1)                                     | `<nixos-hardware/focus/m2/gen1>`                   |
